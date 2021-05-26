@@ -38,4 +38,6 @@ exports = function(changeEvent) {
 
     Learn more about http client here: https://docs.mongodb.com/realm/functions/context/#context-http
   */
+
+    // Do something
 };
