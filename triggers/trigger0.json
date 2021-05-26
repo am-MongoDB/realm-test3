@@ -1,0 +1,23 @@
+{
+    "id": "60ae090d9fa4e92491597a16",
+    "name": "trigger0",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "INSERT",
+            "UPDATE",
+            "DELETE",
+            "REPLACE"
+        ],
+        "database": "expo",
+        "collection": "expo",
+        "service_name": "mongodb-atlas",
+        "match": {},
+        "project": {},
+        "full_document": false,
+        "full_document_before_change": false,
+        "unordered": false
+    },
+    "function_name": "myFunc",
+    "disabled": false
+}

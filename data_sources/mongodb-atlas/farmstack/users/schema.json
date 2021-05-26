@@ -1,0 +1,24 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "email": {
+            "bsonType": "string"
+        },
+        "hashed_password": {
+            "bsonType": "string"
+        },
+        "id": {
+            "bsonType": "object",
+            "properties": {}
+        },
+        "is_active": {
+            "bsonType": "bool"
+        },
+        "is_superuser": {
+            "bsonType": "bool"
+        }
+    },
+    "title": "user"
+}

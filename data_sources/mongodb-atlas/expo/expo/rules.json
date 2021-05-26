@@ -1,0 +1,18 @@
+{
+    "collection": "expo",
+    "database": "expo",
+    "roles": [
+        {
+            "name": "owner",
+            "apply_when": {
+                "user-id": "%%user.id"
+            },
+            "read": true,
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}
