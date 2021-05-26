@@ -1,5 +1,7 @@
 {
+    "app_id": "expo-xlovp",
     "config_version": 20210101,
+    "name": "expo2",
     "location": "US-VA",
     "deployment_model": "LOCAL"
 }
